@@ -1,0 +1,15 @@
+C:\Users\cotes\Desktop\VisualStudio\Composició_Condicional\Ex09\bin\Debug\net8.0\Ex09.exe
+C:\Users\cotes\Desktop\VisualStudio\Composició_Condicional\Ex09\bin\Debug\net8.0\Ex09.deps.json
+C:\Users\cotes\Desktop\VisualStudio\Composició_Condicional\Ex09\bin\Debug\net8.0\Ex09.runtimeconfig.json
+C:\Users\cotes\Desktop\VisualStudio\Composició_Condicional\Ex09\bin\Debug\net8.0\Ex09.dll
+C:\Users\cotes\Desktop\VisualStudio\Composició_Condicional\Ex09\bin\Debug\net8.0\Ex09.pdb
+C:\Users\cotes\Desktop\VisualStudio\Composició_Condicional\Ex09\obj\Debug\net8.0\Ex09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cotes\Desktop\VisualStudio\Composició_Condicional\Ex09\obj\Debug\net8.0\Ex09.AssemblyInfoInputs.cache
+C:\Users\cotes\Desktop\VisualStudio\Composició_Condicional\Ex09\obj\Debug\net8.0\Ex09.AssemblyInfo.cs
+C:\Users\cotes\Desktop\VisualStudio\Composició_Condicional\Ex09\obj\Debug\net8.0\Ex09.csproj.CoreCompileInputs.cache
+C:\Users\cotes\Desktop\VisualStudio\Composició_Condicional\Ex09\obj\Debug\net8.0\Ex09.sourcelink.json
+C:\Users\cotes\Desktop\VisualStudio\Composició_Condicional\Ex09\obj\Debug\net8.0\Ex09.dll
+C:\Users\cotes\Desktop\VisualStudio\Composició_Condicional\Ex09\obj\Debug\net8.0\refint\Ex09.dll
+C:\Users\cotes\Desktop\VisualStudio\Composició_Condicional\Ex09\obj\Debug\net8.0\Ex09.pdb
+C:\Users\cotes\Desktop\VisualStudio\Composició_Condicional\Ex09\obj\Debug\net8.0\Ex09.genruntimeconfig.cache
+C:\Users\cotes\Desktop\VisualStudio\Composició_Condicional\Ex09\obj\Debug\net8.0\ref\Ex09.dll
