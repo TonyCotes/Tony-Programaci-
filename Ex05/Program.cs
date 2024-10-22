@@ -24,7 +24,7 @@
             
         }
 
-        public static bool EsParell(int n)
+        static bool EsParell(int n)
         {
             bool parell;
             if ((n % 2) == 0)

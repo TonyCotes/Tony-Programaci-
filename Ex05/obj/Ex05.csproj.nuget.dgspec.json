@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cotes\\OneDrive\\Desktop\\VisualStudio\\Composició_Condicional\\Ex05\\Ex05.csproj": {}
+    "C:\\Users\\cotes\\Desktop\\VisualStudio\\Composició_Condicional\\Ex05\\Ex05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cotes\\OneDrive\\Desktop\\VisualStudio\\Composició_Condicional\\Ex05\\Ex05.csproj": {
+    "C:\\Users\\cotes\\Desktop\\VisualStudio\\Composició_Condicional\\Ex05\\Ex05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cotes\\OneDrive\\Desktop\\VisualStudio\\Composició_Condicional\\Ex05\\Ex05.csproj",
+        "projectUniqueName": "C:\\Users\\cotes\\Desktop\\VisualStudio\\Composició_Condicional\\Ex05\\Ex05.csproj",
         "projectName": "Ex05",
-        "projectPath": "C:\\Users\\cotes\\OneDrive\\Desktop\\VisualStudio\\Composició_Condicional\\Ex05\\Ex05.csproj",
+        "projectPath": "C:\\Users\\cotes\\Desktop\\VisualStudio\\Composició_Condicional\\Ex05\\Ex05.csproj",
         "packagesPath": "C:\\Users\\cotes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cotes\\OneDrive\\Desktop\\VisualStudio\\Composició_Condicional\\Ex05\\obj\\",
+        "outputPath": "C:\\Users\\cotes\\Desktop\\VisualStudio\\Composició_Condicional\\Ex05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cotes\\AppData\\Roaming\\NuGet\\NuGet.Config",
