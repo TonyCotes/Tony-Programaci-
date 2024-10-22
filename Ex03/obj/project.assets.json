@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cotes\\OneDrive\\Desktop\\VisualStudio\\Composició_Condicional\\Ex03\\Ex03.csproj",
+      "projectUniqueName": "C:\\Users\\cotes\\Desktop\\VisualStudio\\Composició_Condicional\\Ex03\\Ex03.csproj",
       "projectName": "Ex03",
-      "projectPath": "C:\\Users\\cotes\\OneDrive\\Desktop\\VisualStudio\\Composició_Condicional\\Ex03\\Ex03.csproj",
+      "projectPath": "C:\\Users\\cotes\\Desktop\\VisualStudio\\Composició_Condicional\\Ex03\\Ex03.csproj",
       "packagesPath": "C:\\Users\\cotes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cotes\\OneDrive\\Desktop\\VisualStudio\\Composició_Condicional\\Ex03\\obj\\",
+      "outputPath": "C:\\Users\\cotes\\Desktop\\VisualStudio\\Composició_Condicional\\Ex03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cotes\\AppData\\Roaming\\NuGet\\NuGet.Config",

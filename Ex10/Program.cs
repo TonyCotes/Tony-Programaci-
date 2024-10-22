@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             //Definició de variables
             int any;
@@ -16,7 +16,7 @@
             resultat = Segle(any);
             Console.Write(resultat);
         }
-            public static string Segle(int any)
+        static string Segle(int any)
         {
             string segle;
             if (any >= 1701 && any <= 1800)

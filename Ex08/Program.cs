@@ -24,7 +24,7 @@
 
 
         }
-        public static bool HoraValida(int h, int m, int s)
+        static bool HoraValida(int h, int m, int s)
         {
             bool horaValida = h < 24 || h >= 0 && m < 60 || m >= 0 && s < 60 || s >= 0;
            /* if (h >= 24 || h < 0 && m >= 60 || m < 0 && s >= 60 || s < 0)

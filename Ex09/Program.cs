@@ -24,10 +24,9 @@
             string nota;
             double notaGlobal;
             notaGlobal = (notaExamen * 0.8) + (notaPractiques * 0.2);
+            
             if (notaExamen < 3 || notaPractiques < 3)
-            {
                 nota = "Suspens";
-            }
 
             if (notaGlobal < 5)
                 nota = "Suspens";

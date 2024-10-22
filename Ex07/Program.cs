@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             //Definició de variables
@@ -17,7 +17,7 @@
             sancio = Sancio(velocitat);
             Console.Write($"Sanció: {sancio}");
         }
-        public static string Sancio(int velocitat)
+        static string Sancio(int velocitat)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             string multa;

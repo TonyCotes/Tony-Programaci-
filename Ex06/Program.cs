@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             //Definició de variables
             string nomEquipLocal, nomEquipVisitant, resultat;
@@ -26,7 +26,7 @@
             Console.WriteLine(resultat);
 
         }
-        public static string InformeResultat(string nomLocal, int golsLocal, string nomVisitant, int golsVisitant)
+        static string InformeResultat(string nomLocal, int golsLocal, string nomVisitant, int golsVisitant)
         {
             string informe;
             if (golsLocal == golsVisitant)

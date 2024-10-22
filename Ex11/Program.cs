@@ -4,38 +4,38 @@ namespace Ex11
 {
     internal class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             //Definició de variables
             int angle;
             string quadrant;
             
             //Dades d'entrada
-            Console.Write("Introdueix un angle de entre 0 i 360 graus: ");
+            Console.Write("Introdueix un angle de entre -360 i 360 graus: ");
             angle = Convert.ToInt32(Console.ReadLine());
 
             //Algorisme i Dades de sortida
             quadrant = DeterminarQuadrant(angle);
             Console.Write($"L'angle es troba en: {quadrant}");
         }
-        public static string DeterminarQuadrant(int angle)
+        static string DeterminarQuadrant(int angle)
         {
-            string quadrant;
+            string resultat;
             angle = angle % 360;
             if (angle < 0)
                 angle += 360;
-
-            if (angle > 0 && angle <= 90)
-                quadrant = "Primer quadrant";
-                else if (angle > 90 && angle <= 180)
-                    quadrant = "Segon quadrant";
-                    else if (angle > 180 && angle <= 270)
-                        quadrant = "Tercer quadrant";
-                        else if (angle > 270 && angle <= 360)
-                            quadrant = "Quart quadrant";
+            
+            if (angle >= 0 && angle < 90)
+                resultat = "Primer quadrant";
+                else if (angle < 180)
+                    resultat = "Segon quadrant";
+                    else if (angle < 270)
+                        resultat = "Tercer quadrant";
+                        else if (angle < 360)
+                            resultat = "Quart quadrant";
                             else
-                                quadrant = "L'angle no està en cap quadrant";
-            return quadrant;
+                                resultat = "L'angle no està en cap quadrant";
+            return resultat;
         }
 
 

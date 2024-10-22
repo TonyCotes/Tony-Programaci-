@@ -1,0 +1,14 @@
+C:\Users\cotes\source\repos\Composició_Condicional\Exercici_Notes\bin\Debug\net8.0\Exercici_Notes.exe
+C:\Users\cotes\source\repos\Composició_Condicional\Exercici_Notes\bin\Debug\net8.0\Exercici_Notes.deps.json
+C:\Users\cotes\source\repos\Composició_Condicional\Exercici_Notes\bin\Debug\net8.0\Exercici_Notes.runtimeconfig.json
+C:\Users\cotes\source\repos\Composició_Condicional\Exercici_Notes\bin\Debug\net8.0\Exercici_Notes.dll
+C:\Users\cotes\source\repos\Composició_Condicional\Exercici_Notes\bin\Debug\net8.0\Exercici_Notes.pdb
+C:\Users\cotes\source\repos\Composició_Condicional\Exercici_Notes\obj\Debug\net8.0\Exercici_Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cotes\source\repos\Composició_Condicional\Exercici_Notes\obj\Debug\net8.0\Exercici_Notes.AssemblyInfoInputs.cache
+C:\Users\cotes\source\repos\Composició_Condicional\Exercici_Notes\obj\Debug\net8.0\Exercici_Notes.AssemblyInfo.cs
+C:\Users\cotes\source\repos\Composició_Condicional\Exercici_Notes\obj\Debug\net8.0\Exercici_Notes.csproj.CoreCompileInputs.cache
+C:\Users\cotes\source\repos\Composició_Condicional\Exercici_Notes\obj\Debug\net8.0\Exercici_Notes.dll
+C:\Users\cotes\source\repos\Composició_Condicional\Exercici_Notes\obj\Debug\net8.0\refint\Exercici_Notes.dll
+C:\Users\cotes\source\repos\Composició_Condicional\Exercici_Notes\obj\Debug\net8.0\Exercici_Notes.pdb
+C:\Users\cotes\source\repos\Composició_Condicional\Exercici_Notes\obj\Debug\net8.0\Exercici_Notes.genruntimeconfig.cache
+C:\Users\cotes\source\repos\Composició_Condicional\Exercici_Notes\obj\Debug\net8.0\ref\Exercici_Notes.dll
